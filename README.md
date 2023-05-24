@@ -33,4 +33,17 @@ Microsoft Word
 ```
 
 ### To View the image use the following code
+```
+import numpy as np
+from matplotlib import pyplot as plt
+
+zero = np.load("10.npy")
+zero  = zero.reshape(28,28)
+
+plt.imshow(zero)
+plt.show()
+```
+
+### Sample digit visualization
+<img src = "zero.png">
 
