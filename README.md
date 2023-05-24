@@ -45,5 +45,5 @@ plt.show()
 ```
 
 ### Sample digit visualization
-<img src = "zero.png">
+<img src = "https://github.com/ay7n/OCR-RUCILDigits-4/blob/main/zero.png">
 
